@@ -1,5 +1,4 @@
 
-
 * {
     margin: 0;
     padding: 0;
@@ -245,4 +244,4 @@ body.trabajos_realizados header {
   width: 100px;
   height: auto;
   pointer-events: none; /* Para que no bloquee clicks si es necesario */
-}
+  }
